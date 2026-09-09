@@ -33,7 +33,7 @@ collapses from **+8** for a single triangle ($K_3$) down to **+2** for all $s \g
 
 | File | Description |
 | :--- | :--- |
-| `manuscript.pdf` | Complete research paper with proofs, potential calculations, and acknowledgments. |
+| `sk3.pdf` | Complete research paper with proofs, potential calculations, and acknowledgments. |
 | `verify_sk3.py` | Automated Python verification suite using Z3 (tests lower bound, SAT base case, and induction invariants). |
 | `2k3_k8.cnf` | Exact 2,689-clause propositional formula in standard DIMACS format proving `R(2K₃, ℤ₃) ≤ 8`. |
 
